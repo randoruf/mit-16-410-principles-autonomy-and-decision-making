@@ -47,6 +47,8 @@ Reasoning paradigms include logic and deduction, heuristic and constraint-based 
 
 ### Planning Algorithms 
 
+[Steven M. LaValle](http://lavalle.pl/books.html)
+
 [Planning Algorithms / Motion Planning (lavalle.pl)](http://lavalle.pl/planning/)
 
 [Steven M. LaValle](http://lavalle.pl/books.html)
@@ -105,7 +107,33 @@ kdTree and Ball Tree
 
 
 
+## Virtual Reality
 
+[Virtual Reality - LaValle](http://lavalle.pl/vr/)
+
+Quaternion, Euler angle,
+
+Coordinate Transformaton (translation and rotation)... 
+
+It highly relates to the book **"planning algorithm"**
+
+
+
+
+
+## Sensing and Filtering
+
+**A Fresh Perspective Based on Preimages and Information Spaces**
+
+[Steven M. LaValle](http://lavalle.pl/books.html)
+
+
+
+## Mobile Robotics
+
+**An Information Space Approach**
+
+[Steven M. LaValle](http://lavalle.pl/books.html)
 
 ## Course Collections
 

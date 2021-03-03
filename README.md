@@ -39,6 +39,10 @@ Reasoning paradigms include logic and deduction, heuristic and constraint-based 
 
 [Sertac Karaman (MIT) on Motion Planning in a Complex World - MIT Self-Driving Cars - YouTube](https://www.youtube.com/watch?v=0fLSf3NO0-s)
 
+[randoruf/how-to-learn-robotics: 开源机器人学学习指南 (github.com)](https://github.com/randoruf/how-to-learn-robotics)
+
+[ROS/Tutorials - ROS Wiki](http://wiki.ros.org/ROS/Tutorials)
+
 
 
 ### Planning Algorithms 

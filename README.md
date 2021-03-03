@@ -1,6 +1,6 @@
 
 
-# Principles of Autonomy and Decision Making
+# 16.410 - Principles of Autonomy and Decision Making
 
 MIT Course Number		   16.410 / 16.413
 

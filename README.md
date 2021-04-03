@@ -51,8 +51,6 @@ Reasoning paradigms include logic and deduction, heuristic and constraint-based 
 
 [Planning Algorithms / Motion Planning (lavalle.pl)](http://lavalle.pl/planning/)
 
-[Steven M. LaValle](http://lavalle.pl/books.html)
-
 
 
 ### Planning Libray
@@ -64,6 +62,88 @@ Reasoning paradigms include logic and deduction, heuristic and constraint-based 
 [MoveIt Motion Planning Framework (ros.org)](https://moveit.ros.org/)
 
 [ROS.org | Powering the world's robots](https://www.ros.org/)
+
+
+
+## Benmarkers of Path Planning 
+
+[RI Seminar : Sven Koenig: Progress on Multi-Robot Path Finding - YouTube](https://www.youtube.com/watch?v=eqCE_n38yYM)
+
+[Sven Koenig: Multi-Agent Path Planning (idm-lab.org)](http://idm-lab.org/project-p-content.html)
+
+https://www.movingai.com/benchmarks/
+
+https://www.movingai.com/benchmarks/grids.html
+
+| StarCraft                                               | Real-World Building                                     | Dragon Age II                                           | Warframe                                                |
+| ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
+| ![image-20210403174824227](image-20210403174824227.png) | ![image-20210403174849435](image-20210403174849435.png) | ![image-20210403174904396](image-20210403174904396.png) | ![image-20210403174936012](image-20210403174936012.png) |
+
+https://www.movingai.com/benchmarks/mapf.html
+
+http://mapf.info/
+
+[mapf.info : webmaster: Sven Koenig | Main / News | browse](http://mapf.info/index.php/Main/News)
+
+[AIcrowd | Flatland | Challenges](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/)
+
+<img src="image-20210403180840114.png" alt="image-20210403180840114" style="zoom:50%;" />
+
+RL 还是未来方向。这是 **MAPF** 比赛， 可以明显看到 RL 十分有优势。
+
+![image-20210403180941463](image-20210403180941463.png)
+
+
+
+[论文合集：大规模多智能体路径规划_手机网易网 (163.com)](https://3g.163.com/dy/article_cambrian/G6HKROV40511D05M.html)
+
+[Multi-agent pathfinding 传统方法和强化学习结合的多智能体路径规划 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/337729123)
+
+[听说你的多智能体强化学习算法不work？你用对MAPPO了吗_critic (sohu.com)](https://www.sohu.com/a/454213613_129720)
+
+[2010.08184.pdf (arxiv.org)](https://arxiv.org/pdf/2010.08184.pdf)
+
+
+
+## Deep Learning 
+
+[MIT Introduction to Deep Learning | 6.S191 - YouTube](https://www.youtube.com/watch?v=5tvmMX8r_OM&t=731s)
+
+[MIT 6.S191 | Deep Learning New Frontiers - YouTube](https://www.youtube.com/watch?v=-boCMDouF2g)
+
+https://github.com/aikorea/awesome-rl
+
+This "awesome" page has all sorts of RL resources -- code, papers, applications.
+
+http://www.wildml.com/2016/10/learning-reinforcement-learning/
+
+This page is an up-to-date learning environment for RL that is hooked up to code and exercises in OpenAI Gym.
+
+https://gym.openai.com/
+
+Here is the direct link to OpenAI Gym, a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go.
+
+
+
+### Deep Reinforcement Learning
+
+[MIT 6.S191: Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=93M1l_nrhpQ)
+
+[MIT 6.S191 (2019): Deep Reinforcement Learning - YouTube](https://www.youtube.com/watch?v=i6Mi2_QM3rA)
+
+https://github.com/muupan/deep-reinforcement-learning-papers
+
+Here is a nice collection of papers, talk slides, etc. on Deep RL.
+
+https://github.com/nivwusquorum/tensorflow-deepq
+
+GitHub -- Code for RL using tensor flow
+
+http://videolectures.net/rldm2015_silver_reinforcement_learning/
+
+Tutorial by David Silver on Deep RL.
+
+
 
 
 
@@ -134,6 +214,8 @@ It highly relates to the book **"planning algorithm"**
 **An Information Space Approach**
 
 [Steven M. LaValle](http://lavalle.pl/books.html)
+
+
 
 ## Course Collections
 
